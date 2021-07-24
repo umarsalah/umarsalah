@@ -41,6 +41,7 @@
 
 <br />
 <!--START_SECTION:waka-->
+
 ***I'm an Evening person 🦉*** 
 
 ```text
@@ -50,7 +51,7 @@
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
 ```
-📅 **I'm Most Productive on Tuesday and Wwdnesday** 
+📅 **I'm Most Productive on Tuesday and Wednesday** 
 
 ```text
 Monday              ████░░░░░░░░░░░░░░░░░░░░░     10.71 % 
