@@ -32,8 +32,7 @@
 ### 🐱My Github stats:
 <br />
 
-![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=umarsalah&theme=highcontrast&bg_color=000&hide_border=true)
-<br />
+
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=umarsalah&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarsalah&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/umarsalah/github-readme-stats)
