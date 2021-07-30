@@ -18,12 +18,17 @@
 - 😄 Pronouns: He/Him
 
 <p align="center">
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NODE" width="35" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="REACT" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="55" height="55"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
 <img src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg" alt="JS" width="35" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="css" width="30" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1200px-HTML5_logo_black.svg.png" alt="css" width="45" height="50"/> 
+<img src="https://miro.medium.com/max/1000/1*h_CznXmrISfTT_dzNyM6bg.png" alt="API" width="45" height="45"/>
+
 
 </p>
 <br />
@@ -33,7 +38,11 @@
 <br />
 
 
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=umarsalah&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+
+
+<br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=umarsalah&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarsalah&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/umarsalah/github-readme-stats)
 
@@ -50,7 +59,7 @@
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
 ```
-📅 **I'm Most Productive on Tuesday and Wednesday** 
+📅 **I'm Most Productive on Tuesday and Wwdnesday** 
 
 ```text
 Monday              ████░░░░░░░░░░░░░░░░░░░░░     10.71 % 
