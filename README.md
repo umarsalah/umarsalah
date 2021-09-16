@@ -13,7 +13,7 @@
 
 - 🏦 I'm currently a CE student at IUG  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.js```,```.java```
-- 🌱 I’m currently learning nodeJS and React
+- 🌱 I’m currently working NodeJS and ReactJS
 - 💬 Talk to me about anything you need help in !
 - 😄 Pronouns: He/Him
 
