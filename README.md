@@ -11,8 +11,8 @@
 <br />
 
 - 🏦 I'm currently a CE student at IUG  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily `.js`,`typescript`,`react`,`express.js`
-- 🌱 I’m currently working NodeJS , Angular and ReactJS
+- 🤔 I use daily `.js`,`typescript`,`nestJs`,`react`,`express.js`
+- 🌱 I’m currently working NodeJS `nestjs`,Angular and ReactJS
 - 💬 Talk to me about anything you need help in !
 
 <p align="center">
@@ -61,7 +61,7 @@
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
 ```
-📅 **I'm Most Productive on Tuesday and Wwdnesday** 
+📅 **I'm Most Productive on Tuesday and Wednesday** 
 
 ```text
 Monday              ████░░░░░░░░░░░░░░░░░░░░░     10.71 % 
@@ -78,7 +78,7 @@ Sunday              ███████░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 80.17 % as on ⏰ 20-12-2020.
+⏳ **Year Progress** { █████▁▁▁▁ } 35.00 % as on ⏰ 25-03-2022.
 
 <br />
 
