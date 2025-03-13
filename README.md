@@ -20,8 +20,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="35" height="50"/> 
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NODE" width="35" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="NODE" width="180" height="75"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="redux" width="50" height="50"/>
-<img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="REACT" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="50" height="50"/>
+<img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="REACT" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="50" height="50"/>
