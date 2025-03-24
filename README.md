@@ -10,7 +10,7 @@
 </p>
 <br />
 
-- 🏦 I'm currently a CE student at IUG  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 Computer Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily `.js`,`typescript`,`nestJs`,`react`,`express.js`
 - 🌱 I’m currently working NodeJS `nestjs`,Angular and ReactJS
 - 💬 Talk to me about anything you need help in !
